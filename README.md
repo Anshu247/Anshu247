@@ -32,7 +32,7 @@ Application Development: Streamlit
 </td>
 
 <td width="40%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Backpropagation_animation.gif" width="100%"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*BHc8T4C1H0n9mQ8YhH8Zvw.gif" width="100%"/>
 </td>
 </tr>
 </table>
@@ -74,6 +74,7 @@ Application Development: Streamlit
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
