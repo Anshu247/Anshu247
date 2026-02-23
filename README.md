@@ -27,9 +27,10 @@ Skills
 
 </td>
 
-<td width="40%">
-   <a href="assets/istockphoto-1481129687-640_adpp_is.mp4" target="_blank">
-        ▶ Watch Neural Network Animation
+<td width="40%" align="center">
+  <a href="https://playground.tensorflow.org/" target="_blank">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  </a>
 </td>
 
 </table>
