@@ -33,11 +33,11 @@ Application Development: Streamlit
 
 <td width="40%">
   <a href="https://www.youtube.com/results?search_query=3blue1brown+backpropagation" target="_blank">
-  <img src="https://img.youtube.com/vi/tIeHLnjs5U8/maxresdefault.jpg" width="100%"/>
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Artificial_neural_network.svg" width="100%"/>
+  </a>
 </td>
+
 </table>
----
 
 ## 🌐 Connect With Me
 
