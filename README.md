@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Harshit%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Harshit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 # 💫 About Me:
 
@@ -9,11 +9,11 @@
 
 Hi, I’m Harshit 👋  
 
-I am a Machine Learning and Deep Learning enthusiast with a strong interest in building intelligent systems. My long-term goal is to pursue research in AI-driven Robotics, combining machine learning, computer vision, and intelligent decision-making systems.
+I am a Machine Learning and Deep Learning enthusiast passionate about building intelligent systems.
 
-I work with ML and DL frameworks like TensorFlow, Keras, and PyTorch, and have experience building models in NLP and Computer Vision. I also explore Generative AI and RAG-based LLM systems using LangChain and Gemini, and develop interactive AI applications with Streamlit.
+I work with TensorFlow, Keras, and PyTorch to build ML/DL models in NLP and Computer Vision. I also develop Generative AI and RAG-based applications using LangChain and Gemini, and create interactive AI apps with Streamlit.
 
-I continuously strengthen my fundamentals and practical skills to move toward advanced AI and robotics research.
+I continuously improve my fundamentals and practical skills to grow as a strong AI developer.
 
 <br>
 
@@ -42,9 +42,10 @@ I continuously strengthen my fundamentals and practical skills to move toward ad
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-kumar-1a6133264) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/harshit7724) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitsn724@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-kumar-1a6133264)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/harshit7724)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/anshu724)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitsn724@gmail.com)
 
 ---
 
@@ -52,8 +53,6 @@ I continuously strengthen my fundamentals and practical skills to move toward ad
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -69,11 +68,9 @@ I continuously strengthen my fundamentals and practical skills to move toward ad
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anshu247&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anshu247&theme=radical&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu247&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Anshu247&theme=tokyonight&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Anshu247&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu247&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
