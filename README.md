@@ -18,22 +18,17 @@ I am continuously learning, experimenting, and strengthening my foundations to m
 Skills
 
 Programming: Python, C++, MySQL
-
 Machine Learning: Scikit-learn, NumPy, Pandas
-
 Deep Learning: TensorFlow, Keras, PyTorch
-
 Generative AI & LLMs: LangChain, RAG, Gemini
-
 Data Visualization: Matplotlib, Seaborn, Plotly
-
 Application Development: Streamlit
 
 </td>
 
 <td width="40%">
-  <a href="https://www.youtube.com/results?search_query=3blue1brown+backpropagation" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Artificial_neural_network.svg" width="100%"/>
+  <a href="https://playground.tensorflow.org/" target="_blank">
+    <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="100%"/>
   </a>
 </td>
 
