@@ -29,7 +29,7 @@ Skills
 
 <td width="40%">
   <a href="https://playground.tensorflow.org/" target="_blank">
-    <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+    <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
   </a>
 </td>
 
