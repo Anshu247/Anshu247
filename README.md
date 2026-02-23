@@ -32,7 +32,7 @@ Application Development: Streamlit
 </td>
 
 <td width="40%">
-<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Backpropagation_animation.gif" width="100%"/>
 </td>
 </tr>
 </table>
