@@ -32,9 +32,9 @@ Application Development: Streamlit
 </td>
 
 <td width="40%">
-  <a href="https://www.youtube.com/watch?v=tIeHLnjs5U8" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*BHc8T4C1H0n9mQ8YhH8Zvw.gif" width="100%"/>
-  </a>
+  <a href="https://www.youtube.com/results?search_query=3blue1brown+backpropagation" target="_blank">
+  <img src="https://img.youtube.com/vi/tIeHLnjs5U8/maxresdefault.jpg" width="100%"/>
+</a>
 </td>
 </table>
 ---
