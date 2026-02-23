@@ -36,6 +36,7 @@ Application Development: Streamlit
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*BHc8T4C1H0n9mQ8YhH8Zvw.gif" width="100%"/>
   </a>
 </td>
+</table>
 ---
 
 ## 🌐 Connect With Me
