@@ -17,12 +17,13 @@ I am continuously learning, experimenting, and strengthening my foundations to m
 
 Skills
 
-Programming: Python, C++, MySQL
-Machine Learning: Scikit-learn, NumPy, Pandas
-Deep Learning: TensorFlow, Keras, PyTorch
-Generative AI & LLMs: LangChain, RAG, Gemini
-Data Visualization: Matplotlib, Seaborn, Plotly
-Application Development: Streamlit
+1. Programming: Python, C++, MySQL
+2. Machine Learning: Scikit-learn, NumPy, Pandas
+3. Deep Learning: TensorFlow, Keras, PyTorch
+4. Generative AI & LLMs: LangChain, RAG, Gemini
+5. Data Visualization: Matplotlib, Seaborn, Plotly
+6. Application Development: Streamlit
+7. Operating System: Ubuntu Linux
 
 </td>
 
