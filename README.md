@@ -32,7 +32,7 @@ Application Development: Streamlit
 </td>
 
 <td width="40%">
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*3fA77_mLNiJTSgZFhYnU0Q.gif" width="100%"/>
+<img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%"/>
 </td>
 </tr>
 </table>
