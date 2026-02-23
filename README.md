@@ -9,27 +9,25 @@
 
 Hi, I’m Harshit 👋  
 
-I am a Machine Learning and Deep Learning enthusiast passionate about building intelligent systems.
+I am a Machine Learning and Deep Learning enthusiast with a strong interest in building intelligent systems. My long-term goal is to pursue research in AI-driven Robotics, combining machine learning, computer vision, and intelligent decision-making systems.
 
-I work with TensorFlow, Keras, and PyTorch to build ML/DL models in NLP and Computer Vision. I also develop Generative AI and RAG-based applications using LangChain and Gemini, and create interactive AI apps with Streamlit.
+I work with ML and DL frameworks like TensorFlow, Keras, and PyTorch, and have experience building models in NLP and Computer Vision. I also explore Generative AI and RAG-based LLM systems using LangChain and Gemini, and develop interactive AI applications with Streamlit.
 
-I continuously improve my fundamentals and practical skills to grow as a strong AI developer.
+I am continuously learning, experimenting, and strengthening my foundations to move toward advanced AI and robotics research.  
 
-<br>
+Skills
 
-### 🛠 Skills
+Programming: Python, C++, MySQL
 
-**Programming:** Python, C++, MySQL  
+Machine Learning: Scikit-learn, NumPy, Pandas
 
-**Machine Learning:** Scikit-learn, NumPy, Pandas  
+Deep Learning: TensorFlow, Keras, PyTorch
 
-**Deep Learning:** TensorFlow, Keras, PyTorch  
+Generative AI & LLMs: LangChain, RAG, Gemini
 
-**Generative AI & LLMs:** LangChain, RAG, Gemini  
+Data Visualization: Matplotlib, Seaborn, Plotly
 
-**Data Visualization:** Matplotlib, Seaborn  
-
-**Operating System & Tools:** Ubuntu Linux, Streamlit  
+Application Development: Streamlit
 
 </td>
 
