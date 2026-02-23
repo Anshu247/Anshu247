@@ -34,7 +34,7 @@ I continuously improve my fundamentals and practical skills to grow as a strong 
 </td>
 
 <td width="40%">
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 </td>
 </tr>
 </table>
