@@ -27,9 +27,9 @@ Skills
 
 </td>
 
-<td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/Anshu247/Anshu247/main/istockphoto-1481129687-640_adpp_is.gif" width="100%" />
-</td>
+<p align="center">
+  <img src="istockphoto-1481129687-640_adpp_is.gif" width="80%" />
+</p>
 
 </table>
 
