@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="istockphoto-1481129687-640_adpp_is.gif" width="80%" />
+  <img src="istockphoto-1481129687-640_adpp_is.gif" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Harshit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
@@ -21,14 +21,13 @@ I am continuously learning, experimenting, and strengthening my foundations to m
 
 Skills
 
-1. Programming: Python, C++, MySQL
-2. Machine Learning: Scikit-learn, NumPy, Pandas
-3. Deep Learning: TensorFlow, Keras, PyTorch
-4. Generative AI & LLMs: LangChain, RAG, Gemini
+1. Programming Languages: Python, C++, SQL (MySQL)
+2. Machine Learning & Deep Learning: Machine Learning, Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN)
+3. Computer Vision & NLP: Computer Vision, Natural Language Processing (NLP), Roboflow
+4. Frameworks & Libraries: Numpy, Pandas, YOLOV8, TensorFlow/Keras, PyTorch, Scikit-learn
 5. Data Visualization: Matplotlib, Seaborn, Plotly
-6. Application Development: Streamlit
-7. Operating System: Ubuntu Linux
-
+6. Generative AI: Generative AI using Google Gemini
+7. Tools & Platforms: Git, GitHub, Linux (Ubuntu), Streamlit
 </td>
 
 </table>
