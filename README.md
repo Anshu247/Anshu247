@@ -9,7 +9,7 @@
 <tr>
 <td width="60%">
 
-# Hi, I’m Harshit 👋  
+## Hi, I’m Harshit 👋  
 
 I am a Machine Learning and Deep Learning enthusiast with a strong interest in building intelligent systems. My long-term goal is to pursue research in AI-driven Robotics, combining machine learning, computer vision, and intelligent decision-making systems.
 
