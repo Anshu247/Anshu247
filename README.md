@@ -24,7 +24,7 @@ Skills
 3. Computer Vision & NLP: Computer Vision, Natural Language Processing (NLP), Roboflow
 4. Frameworks & Libraries: Numpy, Pandas, YOLOV8, TensorFlow/Keras, PyTorch, Scikit-learn
 5. Data Visualization: Matplotlib, Seaborn, Plotly
-6. Generative AI: Generative AI using Google Gemini
+6. Generative AI: Generative AI using Google Gemini, LangChain
 7. Tools & Platforms: Git, GitHub, Linux (Ubuntu), Streamlit
 </td>
 
@@ -66,8 +66,9 @@ Skills
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-FF0000?style=for-the-badge&logo=opencv&logoColor=white) 
-![Roboflow](https://img.shields.io/badge/Roboflow-Computer_Vision-FE7A16?style=for-the-badge&logo=roboflow&logoColor=white) 
+![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-FF0000?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Generative_AI-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-Computer_Vision-FE7A16?style=for-the-badge&logo=roboflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App_Framework-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
