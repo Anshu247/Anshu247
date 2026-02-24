@@ -3,8 +3,6 @@
   <img src="istockphoto-1481129687-640_adpp_is.gif" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Harshit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
 # 💫 About Me:
 
 <table>
